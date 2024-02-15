@@ -1,0 +1,5 @@
+create network_object_groupe gr_Group_Users1
+addelement network_objects '' network_objects:Organization_User_Computer_10.1.1.1
+addelement network_objects '' network_objects:Organization_User_Computer_10.2.2.2
+addelement network_objects '' network_objects:Organization_User_Computer_10.3.3.3
+addelement network_objects '' network_objects:Organization_User_Computer_10.4.4.4
